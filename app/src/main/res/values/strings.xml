@@ -6,4 +6,6 @@
     <string name="album">Album</string>
     <string name="call">Call</string>
     <string name="mess">Message</string>
+    <string name="slcta">Selects from contacts</string>
+    <string name="enter">Enter number</string>
 </resources>
